@@ -18,13 +18,15 @@ As an extra, I exported the theme I use in FocusWriter in the appropriate folder
 
 # Structure of a file
 The basic structure of a file is:
-**Question:**
-	*(The text of the question goes here...)*
-**Answer:**
-	(The answer follows...)
+
+**Question:**  
+    *(The text of the question goes here...)*  
+**Answer:**  
+    (The answer follows...)  
 
 # Contributing to the project
 For the first time, follow these step:
+
 1. First and foremost, you must be a collaborator. If you are not, request me (Subh0m0y) to make you one through e-mail.
 2. Download and install the lastest version of [Git](http://www.git-scm.com/downloads).
 3. Download and install [FocusWriter](http://gottcode.org/focuswriter/). This is to ensure that all collaborators use the same tools, for the sake of uniformity. Also, if you want, download the theme at [this location](https://github.com/Subh0m0y/ISC-English-Literature-Notes/blob/master/%5BExtra%5D%20Focus%20Writer%20Themes/Night.fwtz) (click on the **Raw** button). Using it will ensure that the PDFs you export will conform to the standard.
@@ -38,4 +40,9 @@ For the first time, follow these step:
 11. And you're done!
 
 If you have already committed and pushed once, follow these steps:
-1. Open up the
+
+1. Open up the terminal and type `git push -u origin master`
+2. Make necessary changes or add files.
+3. Type `git add *` to add all files.
+4. Type `git commit -m "[Comment goes here]"`
+5. Type `git push -u origin master`. Enter your username and password.
