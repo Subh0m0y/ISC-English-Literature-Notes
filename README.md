@@ -31,8 +31,8 @@ For the first time, follow these step:
 2. Download and install the lastest version of [Git](http://www.git-scm.com/downloads).
 3. Download and install [FocusWriter](http://gottcode.org/focuswriter/). This is to ensure that all collaborators use the same tools, for the sake of uniformity. Also, if you want, download the theme at [this location](https://github.com/Subh0m0y/ISC-English-Literature-Notes/blob/master/%5BExtra%5D%20Focus%20Writer%20Themes/Night.fwtz) (click on the **Raw** button). Using it will ensure that the PDFs you export will conform to the standard.
 4. Choose a location where you would like to place the repository folder. Then open up that location in the terminal or command-line.
-5. Navigate to that folder in the command-line.
-6. Type `git clone https://github.com/Subh0m0y/ISC-English-Literature-Notes.git`. **This will create a new directory.**
+5. Type `git clone https://github.com/Subh0m0y/ISC-English-Literature-Notes.git`. **This will create a new directory.**
+6. Navigate to that folder in the command-line.
 7. Add a new file or change an existing one (preferrably using FocusWriter).
 8. Type `git add *`
 9. Type `git commit -m "[Comment describing the changes]"`
