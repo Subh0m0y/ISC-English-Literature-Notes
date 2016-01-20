@@ -41,7 +41,7 @@ For the first time, follow these step:
 
 If you have already committed and pushed once, follow these steps:
 
-1. Open up the terminal and type `git push -u origin master`
+1. Open up the terminal and type `git pull origin master`
 2. Make necessary changes or add files.
 3. Type `git add *` to add all files.
 4. Type `git commit -m "[Comment goes here]"`
